@@ -1,3 +1,0 @@
-This is my first test file
-This is my second time testing the commit and push commands
-This should show up in github if I have done this correctly
