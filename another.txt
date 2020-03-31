@@ -1,0 +1,3 @@
+Another text to be added to master
+If done correctly
+This will be merged and committed
