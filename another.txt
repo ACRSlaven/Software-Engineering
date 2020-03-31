@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Adding value to the feature branch
 Should be able to merge this into develop
+=======
+Another text to be added to master
+If done correctly
+This will be merged and committed
+>>>>>>> develop
