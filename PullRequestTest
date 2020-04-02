@@ -7,3 +7,10 @@ Making edits
 Hello World 
 This is going to be edited from Git bash in my local repository
 >>>>>>> 513524e61ee636211246d039ef7e71b0373baef3
+Pull requests using Git Bash:
+1. Make edits to a specific file from your git bash
+2. Read the file to ensure that your changes have been made
+3. Pull request from the central repository
+4. Merge the changes made to the file with git add
+5. Commit those changes if there are no merge conflicts
+6. Then push those commits to the central repository
