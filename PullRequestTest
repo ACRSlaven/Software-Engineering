@@ -1,4 +1,9 @@
 This is to test whether we can request to pull this file from the Git bash
+<<<<<<< HEAD
 Making edits 
 Making edits
 Making edits
+=======
+Hello World 
+This is going to be edited from Git bash in my local repository
+>>>>>>> 513524e61ee636211246d039ef7e71b0373baef3
